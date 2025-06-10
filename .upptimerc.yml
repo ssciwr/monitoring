@@ -11,8 +11,14 @@ sites:
     method: GET
   - name: PredicTCR
     url: https://predictcr.com
+  - name: PredicTCR backend
+    url: https://predictcr.com/api/settings
+    method: GET
   - name: SampleFlow
     url: https://circuitseq.iwr.uni-heidelberg.de/
+  - name: SampleFlow backend
+    url: https://circuitseq.iwr.uni-heidelberg.de/api/remaining
+    method: GET
 
 status-website:
   baseUrl: /monitoring
