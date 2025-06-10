@@ -1,4 +1,4 @@
-# [📈 Live Status](https://lkeegan.github.io/monitoring): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://ssciwr.github.io/monitoring): <!--live status--> **🟩 All systems operational**
 
 Basic monitoring of SSC websites and web services using [upptime](https://github.com/upptime) - to add a website, edit [.upptimerc.yml](.upptimerc.yml).
 
