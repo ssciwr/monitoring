@@ -23,6 +23,7 @@ sites:
 status-website:
   baseUrl: /monitoring
   logoUrl: https://backend.ssc.uni-heidelberg.de/sites/default/files/site_logo/WEB%20Kopfgrafik%20Scientific-Software-Center%20LANG%20neu_0.svg
+  favicon: https://raw.githubusercontent.com/ssciwr/monitoring/refs/heads/main/assets/favicon.ico
   name: SSC web service monitoring
   introTitle: ""
   introMessage: ""
