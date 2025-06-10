@@ -6,6 +6,9 @@ sites:
     url: https://ssc.uni-heidelberg.de
   - name: MONDEY
     url: https://mondey.de
+  - name: MONDEY backend
+    url: https://mondey.de/api/languages/
+    method: GET
   - name: PredicTCR
     url: https://predictcr.com
   - name: SampleFlow
