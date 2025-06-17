@@ -4,18 +4,20 @@
     "url": "https://ssc.uni-heidelberg.de",
     "icon": "https://icons.duckduckgo.com/ip3/ssc.uni-heidelberg.de.ico",
     "slug": "ssc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6767,
-    "timeDay": 6005,
-    "timeWeek": 6767,
-    "timeMonth": 6767,
-    "timeYear": 6767,
-    "dailyMinutesDown": {}
+    "time": 6396,
+    "timeDay": 3418,
+    "timeWeek": 4820,
+    "timeMonth": 6396,
+    "timeYear": 6396,
+    "dailyMinutesDown": {
+      "2025-06-17": 0
+    }
   },
   {
     "name": "MONDEY",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 561,
-    "timeWeek": 662,
+    "timeWeek": 714,
     "timeMonth": 662,
     "timeYear": 662,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 99,
-    "timeWeek": 117,
+    "timeWeek": 115,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 523,
     "timeDay": 432,
-    "timeWeek": 523,
+    "timeWeek": 505,
     "timeMonth": 523,
     "timeYear": 523,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 98,
-    "timeWeek": 117,
+    "timeWeek": 116,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 3240,
     "timeDay": 4869,
-    "timeWeek": 3240,
+    "timeWeek": 2676,
     "timeMonth": 3240,
     "timeYear": 3240,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 97,
-    "timeWeek": 116,
+    "timeWeek": 113,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {}
