@@ -4,19 +4,19 @@
     "url": "https://ssc.uni-heidelberg.de",
     "icon": "https://icons.duckduckgo.com/ip3/ssc.uni-heidelberg.de.ico",
     "slug": "ssc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6396,
-    "timeDay": 3418,
-    "timeWeek": 4820,
-    "timeMonth": 6396,
-    "timeYear": 6396,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 6359,
+    "timeDay": 4200,
+    "timeWeek": 4925,
+    "timeMonth": 6359,
+    "timeYear": 6359,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 26
     }
   },
   {
