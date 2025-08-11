@@ -62,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/predictcr.com.ico",
     "slug": "predic-tcr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.38%",
+    "uptimeDay": "61.61%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.38%",
     "time": 553,
     "timeDay": 585,
     "timeWeek": 547,
     "timeMonth": 552,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-08-11": 1
+      "2025-08-11": 553
     }
   },
   {
@@ -82,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/predictcr.com.ico",
     "slug": "predic-tcr-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.38%",
+    "uptimeDay": "61.64%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.38%",
     "time": 122,
     "timeDay": 114,
     "timeWeek": 115,
     "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 552
     }
   },
   {
@@ -101,9 +101,9 @@
     "url": "https://circuitseq.iwr.uni-heidelberg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/circuitseq.iwr.uni-heidelberg.de.ico",
     "slug": "sample-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,14 +112,16 @@
     "timeWeek": 1408,
     "timeMonth": 2232,
     "timeYear": 2208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "SampleFlow backend",
     "url": "https://circuitseq.iwr.uni-heidelberg.de/api/remaining",
     "icon": "https://icons.duckduckgo.com/ip3/circuitseq.iwr.uni-heidelberg.de.ico",
     "slug": "sample-flow-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -130,6 +132,8 @@
     "timeWeek": 116,
     "timeMonth": 118,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   }
 ]
