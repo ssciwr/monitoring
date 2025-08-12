@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 5654,
-    "timeDay": 1785,
-    "timeWeek": 4477,
-    "timeMonth": 5210,
-    "timeYear": 5654,
+    "time": 5657,
+    "timeDay": 5916,
+    "timeWeek": 5006,
+    "timeMonth": 5218,
+    "timeYear": 5657,
     "dailyMinutesDown": {
       "2025-07-14": 23,
       "2025-06-17": 50
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 592,
-    "timeWeek": 628,
-    "timeMonth": 674,
-    "timeYear": 675,
+    "time": 674,
+    "timeDay": 664,
+    "timeWeek": 640,
+    "timeMonth": 677,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 118,
-    "timeWeek": 115,
-    "timeMonth": 117,
+    "timeDay": 125,
+    "timeWeek": 117,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/predictcr.com.ico",
     "slug": "predic-tcr",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "61.61%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.38%",
+    "uptime": "98.70%",
+    "uptimeDay": "18.81%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "98.70%",
     "time": 553,
-    "timeDay": 585,
-    "timeWeek": 547,
-    "timeMonth": 552,
+    "timeDay": 0,
+    "timeWeek": 549,
+    "timeMonth": 556,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-08-11": 553
+      "2025-08-12": 116,
+      "2025-08-11": 1053
     }
   },
   {
@@ -82,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/predictcr.com.ico",
     "slug": "predic-tcr-backend",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "61.64%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.38%",
+    "uptime": "98.70%",
+    "uptimeDay": "18.84%",
+    "uptimeWeek": "88.41%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "98.70%",
     "time": 122,
-    "timeDay": 114,
-    "timeWeek": 115,
-    "timeMonth": 121,
+    "timeDay": 0,
+    "timeWeek": 116,
+    "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-11": 552
+      "2025-08-12": 116,
+      "2025-08-11": 1053
     }
   },
   {
@@ -102,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitseq.iwr.uni-heidelberg.de.ico",
     "slug": "sample-flow",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "57.19%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.32%",
     "time": 2208,
-    "timeDay": 820,
-    "timeWeek": 1408,
-    "timeMonth": 2232,
+    "timeDay": 0,
+    "timeWeek": 1528,
+    "timeMonth": 2279,
     "timeYear": 2208,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-12": 116,
+      "2025-08-11": 501
     }
   },
   {
@@ -122,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitseq.iwr.uni-heidelberg.de.ico",
     "slug": "sample-flow-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "57.20%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.32%",
     "time": 119,
-    "timeDay": 117,
+    "timeDay": 0,
     "timeWeek": 116,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-12": 116,
+      "2025-08-11": 501
     }
   }
 ]
