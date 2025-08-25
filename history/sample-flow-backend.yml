@@ -1,7 +1,7 @@
 url: https://circuitseq.iwr.uni-heidelberg.de/api/remaining
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-24T23:09:20.296Z
+status: up
+code: 200
+responseTime: 128
+lastUpdated: 2025-08-25T09:40:43.043Z
 startTime: 2025-06-10T12:26:09.585Z
 generator: Upptime <https://github.com/upptime/upptime>
