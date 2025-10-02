@@ -1,7 +1,7 @@
 url: https://mondey.de/api/languages/
-status: down
-code: 502
-responseTime: 153
-lastUpdated: 2025-10-02T02:12:36.000Z
+status: up
+code: 200
+responseTime: 168
+lastUpdated: 2025-10-02T06:47:45.340Z
 startTime: 2025-06-10T11:58:52.975Z
 generator: Upptime <https://github.com/upptime/upptime>
